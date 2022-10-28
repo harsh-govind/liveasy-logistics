@@ -1,5 +1,5 @@
 # liveasy-logistics
- liveasy logistics internship task 
+ liveasy logistics internship task  -  https://harsh-govind.github.io/liveasy-logistics/ 
  ![image](https://user-images.githubusercontent.com/71700319/198553204-92fc1742-6de7-462b-991a-14e0707ba118.png)
 ![image](https://user-images.githubusercontent.com/71700319/198553239-ada12d53-e8cb-4d31-ba23-4f1d947c96c5.png)
 ![image](https://user-images.githubusercontent.com/71700319/198553276-d55012e7-6a78-400d-9a37-7a171e19bf2d.png)
