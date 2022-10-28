@@ -1,3 +1,17 @@
 # liveasy-logistics
  liveasy logistics internship task 
- 
+ ![image](https://user-images.githubusercontent.com/71700319/198553204-92fc1742-6de7-462b-991a-14e0707ba118.png)
+![image](https://user-images.githubusercontent.com/71700319/198553239-ada12d53-e8cb-4d31-ba23-4f1d947c96c5.png)
+![image](https://user-images.githubusercontent.com/71700319/198553276-d55012e7-6a78-400d-9a37-7a171e19bf2d.png)
+![image](https://user-images.githubusercontent.com/71700319/198553299-94bbae06-1c7f-4306-96b1-233e9f2d6a98.png)
+![image](https://user-images.githubusercontent.com/71700319/198553352-ba2f336f-8fdb-453b-bbad-2464a5f60d31.png)
+![image](https://user-images.githubusercontent.com/71700319/198553381-7b0f4aee-ea76-4cb9-8cf5-b2b473f9deb7.png)
+![image](https://user-images.githubusercontent.com/71700319/198553412-8f9299e6-0580-484a-8867-8b1b54471dca.png)
+![image](https://user-images.githubusercontent.com/71700319/198553439-f2a441be-4594-4d41-86a8-a57d7cbdf7a2.png)
+![image](https://user-images.githubusercontent.com/71700319/198553455-2ea61604-3d37-45a1-854d-d0f9e7f2a7a8.png)
+![image](https://user-images.githubusercontent.com/71700319/198553475-5d6fe208-444c-46cf-94b8-d10ffe514e91.png)
+![image](https://user-images.githubusercontent.com/71700319/198553497-4282210f-37a5-4204-99da-173296e8d82e.png)
+![image](https://user-images.githubusercontent.com/71700319/198553563-524928ce-2110-4aaf-9b15-696576ee3a66.png)
+![image](https://user-images.githubusercontent.com/71700319/198553587-d4fa4e6c-81eb-41b5-afc6-ec034cd4f744.png)
+![image](https://user-images.githubusercontent.com/71700319/198553609-a94f1bf4-625f-4fc2-87d4-cf24548919c1.png)
+![image](https://user-images.githubusercontent.com/71700319/198553623-608921fd-4278-4c79-8d1d-ed72f63b99ed.png)
